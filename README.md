@@ -1,2 +1,2 @@
 # action-repo
-This Repository id for the Webhook creation.
+This Repository is for the Webhook creation.
