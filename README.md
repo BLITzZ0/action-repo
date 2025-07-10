@@ -5,7 +5,7 @@ This repository is used only for testing GitHub Webhook events such as:
 - `pull_request`
 - `merge`
 
-These events are sent to a separate backend (`webhook-repo`) using a GitHub webhooks.
+These events are sent to a separate backend (`webhook-repo`) using a GitHub webhook.
 
 ---
 
