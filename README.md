@@ -14,8 +14,8 @@ These events are sent to a separate backend (`webhook-repo`) using a GitHub webh
 The goal of this repository is to generate webhook payloads by:
 
 - Making commits and pushing to branches
-- Opening pull requests from one branch to another
-- Merging pull requests (optional, for extra credit)
+- Opening `pull` requests from one branch to another
+- Merging `pull` requests (optional, for extra credit)
 
 All events are sent to a webhook URL configured in the repo settings.
 
